@@ -4,7 +4,7 @@
 #
 Name     : perl-Image-Xpm
 Version  : 1.13
-Release  : 4
+Release  : 5
 URL      : https://cpan.metacpan.org/authors/id/S/SR/SREZIC/Image-Xpm-1.13.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/S/SR/SREZIC/Image-Xpm-1.13.tar.gz
 Summary  : 'Load, create, manipulate and save xpm image files.'
@@ -85,4 +85,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.3/Image/Xpm.pm
+/usr/lib/perl5/vendor_perl/5.32.1/Image/Xpm.pm
