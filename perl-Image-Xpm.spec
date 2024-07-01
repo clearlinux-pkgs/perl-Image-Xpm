@@ -4,7 +4,7 @@
 #
 Name     : perl-Image-Xpm
 Version  : 1.13
-Release  : 16
+Release  : 17
 URL      : https://cpan.metacpan.org/authors/id/S/SR/SREZIC/Image-Xpm-1.13.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/S/SR/SREZIC/Image-Xpm-1.13.tar.gz
 Summary  : 'Load, create, manipulate and save xpm image files.'
